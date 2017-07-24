@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+<style>
+	img {
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    z-index: -1;
+}
+	body {
+    background-image: url("http://orig06.deviantart.net/5e56/f/2012/267/d/1/creepy_room_by_dani8190-d5frfll.png");
+    background-color: #cccccc;
+}
+</style>
+	<head>
+    <link href="https://fonts.googleapis.com/css?family=Nosifer" rel="stylesheet">
+	</head>
+	<body>
+		<img src="http://www.woodtrellisdesigns.net/products/stake.png">
+        
+	</body>
